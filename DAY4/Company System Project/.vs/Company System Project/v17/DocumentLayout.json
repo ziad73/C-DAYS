@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\coding\\Back-End\\Dotnet\\Projects\\Company System Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|e:\\coding\\back-end\\dotnet\\projects\\company system project\\company system\\users\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|solutionrelative:company system\\users\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|e:\\coding\\back-end\\dotnet\\projects\\company system project\\company system\\projects\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|solutionrelative:company system\\projects\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|e:\\coding\\back-end\\dotnet\\projects\\company system project\\company system\\departments\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|solutionrelative:company system\\departments\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|e:\\coding\\back-end\\dotnet\\projects\\company system project\\company system\\cmopany\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|solutionrelative:company system\\cmopany\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|e:\\coding\\back-end\\dotnet\\projects\\company system project\\company system\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|solutionrelative:company system\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Company.cs",
+              "DocumentMoniker": "E:\\coding\\Back-End\\Dotnet\\Projects\\Company System Project\\Company System\\Cmopany\\Company.cs",
+              "RelativeDocumentMoniker": "Company System\\Cmopany\\Company.cs",
+              "ToolTip": "E:\\coding\\Back-End\\Dotnet\\Projects\\Company System Project\\Company System\\Cmopany\\Company.cs",
+              "RelativeToolTip": "Company System\\Cmopany\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T14:47:13.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\coding\\Back-End\\Dotnet\\Projects\\Company System Project\\Company System\\Departments\\Department.cs",
+              "RelativeDocumentMoniker": "Company System\\Departments\\Department.cs",
+              "ToolTip": "E:\\coding\\Back-End\\Dotnet\\Projects\\Company System Project\\Company System\\Departments\\Department.cs",
+              "RelativeToolTip": "Company System\\Departments\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T14:45:21.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project.cs",
+              "DocumentMoniker": "E:\\coding\\Back-End\\Dotnet\\Projects\\Company System Project\\Company System\\Projects\\Project.cs",
+              "RelativeDocumentMoniker": "Company System\\Projects\\Project.cs",
+              "ToolTip": "E:\\coding\\Back-End\\Dotnet\\Projects\\Company System Project\\Company System\\Projects\\Project.cs",
+              "RelativeToolTip": "Company System\\Projects\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T14:45:05.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "E:\\coding\\Back-End\\Dotnet\\Projects\\Company System Project\\Company System\\Users\\Developer.cs",
+              "RelativeDocumentMoniker": "Company System\\Users\\Developer.cs",
+              "ToolTip": "E:\\coding\\Back-End\\Dotnet\\Projects\\Company System Project\\Company System\\Users\\Developer.cs",
+              "RelativeToolTip": "Company System\\Users\\Developer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T14:42:59.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cs",
+              "DocumentMoniker": "E:\\coding\\Back-End\\Dotnet\\Projects\\Company System Project\\Company System\\main.cs",
+              "RelativeDocumentMoniker": "Company System\\main.cs",
+              "ToolTip": "E:\\coding\\Back-End\\Dotnet\\Projects\\Company System Project\\Company System\\main.cs",
+              "RelativeToolTip": "Company System\\main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T13:37:58.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

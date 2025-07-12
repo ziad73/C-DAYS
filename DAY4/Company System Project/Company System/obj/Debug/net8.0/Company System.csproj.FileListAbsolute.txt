@@ -1,0 +1,14 @@
+E:\coding\Back-End\Dotnet\Projects\Company System Project\Company System\obj\Debug\net8.0\Company System.GeneratedMSBuildEditorConfig.editorconfig
+E:\coding\Back-End\Dotnet\Projects\Company System Project\Company System\obj\Debug\net8.0\Company System.AssemblyInfoInputs.cache
+E:\coding\Back-End\Dotnet\Projects\Company System Project\Company System\obj\Debug\net8.0\Company System.AssemblyInfo.cs
+E:\coding\Back-End\Dotnet\Projects\Company System Project\Company System\obj\Debug\net8.0\Company System.csproj.CoreCompileInputs.cache
+E:\coding\Back-End\Dotnet\Projects\Company System Project\Company System\bin\Debug\net8.0\Company System.exe
+E:\coding\Back-End\Dotnet\Projects\Company System Project\Company System\bin\Debug\net8.0\Company System.deps.json
+E:\coding\Back-End\Dotnet\Projects\Company System Project\Company System\bin\Debug\net8.0\Company System.runtimeconfig.json
+E:\coding\Back-End\Dotnet\Projects\Company System Project\Company System\bin\Debug\net8.0\Company System.dll
+E:\coding\Back-End\Dotnet\Projects\Company System Project\Company System\bin\Debug\net8.0\Company System.pdb
+E:\coding\Back-End\Dotnet\Projects\Company System Project\Company System\obj\Debug\net8.0\Company System.dll
+E:\coding\Back-End\Dotnet\Projects\Company System Project\Company System\obj\Debug\net8.0\refint\Company System.dll
+E:\coding\Back-End\Dotnet\Projects\Company System Project\Company System\obj\Debug\net8.0\Company System.pdb
+E:\coding\Back-End\Dotnet\Projects\Company System Project\Company System\obj\Debug\net8.0\Company System.genruntimeconfig.cache
+E:\coding\Back-End\Dotnet\Projects\Company System Project\Company System\obj\Debug\net8.0\ref\Company System.dll
