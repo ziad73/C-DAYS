@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\coding\\Back-End\\Dotnet\\Projects\\Company System Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|e:\\coding\\back-end\\dotnet\\projects\\company system project\\company system\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|solutionrelative:company system\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cs",
+              "DocumentMoniker": "E:\\coding\\Back-End\\Dotnet\\Projects\\Company System Project\\Company System\\main.cs",
+              "RelativeDocumentMoniker": "Company System\\main.cs",
+              "ToolTip": "E:\\coding\\Back-End\\Dotnet\\Projects\\Company System Project\\Company System\\main.cs",
+              "RelativeToolTip": "Company System\\main.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAIAwwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T13:37:58.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
