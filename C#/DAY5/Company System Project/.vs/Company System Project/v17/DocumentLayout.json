@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "E:\\coding\\Back-End\\Dotnet\\Projects\\Company System Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|e:\\coding\\back-end\\dotnet\\projects\\company system project\\company system\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|solutionrelative:company system\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|e:\\coding\\back-end\\dotnet\\projects\\company system project\\company system\\company\\companysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|solutionrelative:company system\\company\\companysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|e:\\coding\\back-end\\dotnet\\projects\\company system project\\company system\\projects\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|solutionrelative:company system\\projects\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|e:\\coding\\back-end\\dotnet\\projects\\company system project\\company system\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|solutionrelative:company system\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|e:\\coding\\back-end\\dotnet\\projects\\company system project\\company system\\employees\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|solutionrelative:company system\\employees\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|e:\\coding\\back-end\\dotnet\\projects\\company system project\\company system\\employees\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|solutionrelative:company system\\employees\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|e:\\coding\\back-end\\dotnet\\projects\\company system project\\company system\\projects\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|solutionrelative:company system\\projects\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|e:\\coding\\back-end\\dotnet\\projects\\company system project\\company system\\departments\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|solutionrelative:company system\\departments\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|e:\\coding\\back-end\\dotnet\\projects\\company system project\\company system\\company\\companysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|solutionrelative:company system\\company\\companysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|e:\\coding\\back-end\\dotnet\\projects\\company system project\\company system\\employees\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|solutionrelative:company system\\employees\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|e:\\coding\\back-end\\dotnet\\projects\\company system project\\company system\\employees\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2419339-CDEA-4D95-B721-D390E0494E66}|Company System\\Company System.csproj|solutionrelative:company system\\employees\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,17 +38,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "E:\\coding\\Back-End\\Dotnet\\Projects\\Company System Project\\Company System\\Employees\\Developer.cs",
+              "RelativeDocumentMoniker": "Company System\\Employees\\Developer.cs",
+              "ToolTip": "E:\\coding\\Back-End\\Dotnet\\Projects\\Company System Project\\Company System\\Employees\\Developer.cs",
+              "RelativeToolTip": "Company System\\Employees\\Developer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T13:20:42.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "CompanySystem.cs",
               "DocumentMoniker": "E:\\coding\\Back-End\\Dotnet\\Projects\\Company System Project\\Company System\\Company\\CompanySystem.cs",
               "RelativeDocumentMoniker": "Company System\\Company\\CompanySystem.cs",
               "ToolTip": "E:\\coding\\Back-End\\Dotnet\\Projects\\Company System Project\\Company System\\Company\\CompanySystem.cs",
               "RelativeToolTip": "Company System\\Company\\CompanySystem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwDAAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T18:09:32.687Z",
               "EditorCaption": ""
@@ -64,13 +81,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Tester.cs",
               "DocumentMoniker": "E:\\coding\\Back-End\\Dotnet\\Projects\\Company System Project\\Company System\\Employees\\Tester.cs",
               "RelativeDocumentMoniker": "Company System\\Employees\\Tester.cs",
               "ToolTip": "E:\\coding\\Back-End\\Dotnet\\Projects\\Company System Project\\Company System\\Employees\\Tester.cs",
               "RelativeToolTip": "Company System\\Employees\\Tester.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T18:09:00.492Z",
               "EditorCaption": ""
@@ -83,33 +100,33 @@
               "RelativeDocumentMoniker": "Company System\\Employees\\Employee.cs",
               "ToolTip": "E:\\coding\\Back-End\\Dotnet\\Projects\\Company System Project\\Company System\\Employees\\Employee.cs",
               "RelativeToolTip": "Company System\\Employees\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwBQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T18:08:28.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Project.cs",
               "DocumentMoniker": "E:\\coding\\Back-End\\Dotnet\\Projects\\Company System Project\\Company System\\Projects\\Project.cs",
               "RelativeDocumentMoniker": "Company System\\Projects\\Project.cs",
               "ToolTip": "E:\\coding\\Back-End\\Dotnet\\Projects\\Company System Project\\Company System\\Projects\\Project.cs",
               "RelativeToolTip": "Company System\\Projects\\Project.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T18:08:17.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cs",
               "DocumentMoniker": "E:\\coding\\Back-End\\Dotnet\\Projects\\Company System Project\\Company System\\main.cs",
               "RelativeDocumentMoniker": "Company System\\main.cs",
               "ToolTip": "E:\\coding\\Back-End\\Dotnet\\Projects\\Company System Project\\Company System\\main.cs",
               "RelativeToolTip": "Company System\\main.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAADoAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAABgZmZmZiYwwDcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-12T13:37:58.907Z",
               "EditorCaption": ""

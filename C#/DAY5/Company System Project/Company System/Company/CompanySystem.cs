@@ -38,8 +38,6 @@ namespace Company_System.Company
             int id = int.Parse(Console.ReadLine());
             Console.Write($"Enter {type} Name: ");
             string name = Console.ReadLine();
-            Console.Write("Enter Salary: ");
-            double salary = double.Parse(Console.ReadLine());
             Console.Write("Enter Department ID to assign: ");
             int depId = int.Parse(Console.ReadLine());
             Department dep = FindDep(depId);
@@ -48,9 +46,9 @@ namespace Company_System.Company
 
             Employee e;
             if (type == EmployeeType.Developer)
-                e = new Developer(id, name, salary, type, dep, numOfProjects);
+                e = new Developer(id, name, type, dep, numOfProjects);
             else
-                e = new Tester(id, name, salary, type, dep, numOfProjects);
+                e = new Tester(id, name, type, dep, numOfProjects);
 
             Employees[EmpCount] = e;
             EmpCount++;
