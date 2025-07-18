@@ -1,31 +1,32 @@
 ﻿namespace app
 {
-    public class Stack
+    public class Stack<T>
     {
-        int[] stack;
+        T[] stack;
         int maxSize;
         int top;
 
         public Stack(int MSize = 4)
         {
             maxSize = MSize;
-            stack = new int[maxSize];
+            stack = new T[maxSize];
             top = 0;
         }
         public bool isEmpty() => top == 0;
         public bool isFull() => top == maxSize;
-        public void insertBack(int num)
+        public void push(T value)
         {
             if (isFull()) { Console.WriteLine("Stck is Full"); return; }
-            stack[top] = num;
+            stack[top] = value;
             top++;
         }
-        public void pop()
+        public T pop()
         {
-            if (isEmpty()) { Console.WriteLine("Stack is Empty"); return; }
+            if (isEmpty()) { throw new Exception("Stack is Empty"); }
             top--;
+            return stack[top];
         }
-        public int peek()
+        public T peek()
         {
             if (isEmpty()) { throw new Exception("Stack is Empty"); }
 

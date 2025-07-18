@@ -1,13 +1,13 @@
 ﻿namespace app
 {
-    public class DArray
+    public class DArray<T>
     {
-        int[] array;
+        T[] array;
         int maxSize;
         int count;
         private void resize(int newSize)
         {
-            int[] temp = new int[newSize];
+            T[] temp = new T[newSize];
             for (int i = 0; i < array.Length; i++)
             {
                 temp[i] = array[i];
@@ -22,17 +22,17 @@
         {
             maxSize = mSize;
             count = 0;
-            array = new int[mSize];
+            array = new T[mSize];
         }
 
-        public void insertBack(int num)
+        public void insertBack(T value)
         {
             if (isFull())
             {
                 Console.WriteLine($"Array is full, Resizing...Now size: {maxSize * 2}");
                 resize(maxSize * 2);
             }
-            array[count] = num;
+            array[count] = value;
             count++;
         }
 
@@ -59,7 +59,7 @@
             int sum = 0;
             for (int i = 0; i < count; i++)
             {
-                sum += array[i];
+                sum += (dynamic) array[i];
             }
             return (double) sum / (double) count;
         }
