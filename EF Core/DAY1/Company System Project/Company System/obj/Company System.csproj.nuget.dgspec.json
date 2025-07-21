@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\coding\\GitHub\\Repos\\iti tasks\\C#\\DAY5\\Company System Project\\Company System\\Company System.csproj": {}
+    "E:\\coding\\GitHub\\Repos\\iti\\EF Core\\DAY1\\Company System Project\\Company System\\Company System.csproj": {}
   },
   "projects": {
-    "E:\\coding\\GitHub\\Repos\\iti tasks\\C#\\DAY5\\Company System Project\\Company System\\Company System.csproj": {
+    "E:\\coding\\GitHub\\Repos\\iti\\EF Core\\DAY1\\Company System Project\\Company System\\Company System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\coding\\GitHub\\Repos\\iti tasks\\C#\\DAY5\\Company System Project\\Company System\\Company System.csproj",
+        "projectUniqueName": "E:\\coding\\GitHub\\Repos\\iti\\EF Core\\DAY1\\Company System Project\\Company System\\Company System.csproj",
         "projectName": "Company System",
-        "projectPath": "E:\\coding\\GitHub\\Repos\\iti tasks\\C#\\DAY5\\Company System Project\\Company System\\Company System.csproj",
+        "projectPath": "E:\\coding\\GitHub\\Repos\\iti\\EF Core\\DAY1\\Company System Project\\Company System\\Company System.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "E:\\coding\\GitHub\\Repos\\iti tasks\\C#\\DAY5\\Company System Project\\Company System\\obj\\",
+        "outputPath": "E:\\coding\\GitHub\\Repos\\iti\\EF Core\\DAY1\\Company System Project\\Company System\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,22 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

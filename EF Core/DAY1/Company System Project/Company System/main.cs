@@ -1,5 +1,5 @@
-﻿using Company_System.Company;
-using Company_System.Employees;
+﻿using Company_System.DAL.Entities.Company;
+using Company_System.DAL.Entities.Employees;
 
 namespace CompanySystem_System
 {
